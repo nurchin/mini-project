@@ -1,6 +1,6 @@
 ﻿using Library_Management_Application.Models;
-using Library_Management_Application.Services;
 using Library_Management_Application.Services.Implementations;
+using Library_Management_Application.Services.Interfaces;
 
 namespace Library_Management_Application
 {
